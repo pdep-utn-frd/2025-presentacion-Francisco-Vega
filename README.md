@@ -2,7 +2,7 @@
 
 ### Tengo 20 años y actualmente trabajo como programador, apasionado por la inteligencia artificial y los proyectos.
 
-### Película favorita: demasiadas.
+### Película favorita: Interestelar.
 
-(![Yo](Francisco%20Vega.jpeg)
+![Yo](Francisco%20Vega.jpeg)
 
